@@ -1,0 +1,22 @@
+Para: lyc_fmarquez@e.uneg.edu.ve
+Asunto: Creación de grupo - Lenguajes y Compiladores - <NOMBRE_DEL_GRUPO>
+
+Buenas tardes, profesor.
+
+Por medio del presente le envío la información de nuestro grupo:
+
+Nombre del grupo: <NOMBRE_DEL_GRUPO>
+Eslogan: <ESLOGAN>
+
+Participantes:
+1. C.I. V-XXXXXXXX - <NOMBRE Y APELLIDO> - Sección <XX>
+2. C.I. V-XXXXXXXX - <NOMBRE Y APELLIDO> - Sección <XX>
+3. C.I. V-XXXXXXXX - <NOMBRE Y APELLIDO> - Sección <XX>
+4. C.I. V-XXXXXXXX - <NOMBRE Y APELLIDO> - Sección <XX>
+
+Nombre del líder: <NOMBRE DEL LÍDER>
+
+Dirección del repositorio: https://github.com/<USUARIO>/<REPO>
+
+Saludos cordiales,
+<NOMBRE DEL LÍDER>
