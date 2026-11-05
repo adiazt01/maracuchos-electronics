@@ -19,9 +19,10 @@ PRUEBA_DIAGNOSTICA/          # un producto por participante
   ARMANDO_DIAZ/
   JONAGLHYS_TARRIDO/
   JOSE_MARQUEZ/
-    codigo/                  # proyecto (códigos)
-    informe/                 # informe
-    video/ENLACE_VIDEO.md    # enlace al Drive con el video de la defensa
+    ENLACE_VIDEO.md          # enlace al Drive con el video de la defensa
+    ejercicio_1/             # código, scripts e informe del ejercicio 1
+    ejercicio_2/             # código, scripts e informe del ejercicio 2
+    ejercicio_3/             # código, scripts e informe del ejercicio 3
 TEMA1 .. TEMA4/
   codigo/
   informe/
