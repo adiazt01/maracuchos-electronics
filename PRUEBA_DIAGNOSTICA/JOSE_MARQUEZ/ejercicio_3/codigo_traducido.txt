@@ -1,0 +1,29 @@
+/* Programa de ejemplo: suma los impares hasta n.
+   Los comentarios no se traducen: if while for int */
+#include <stdio.h>
+#include <float.h>
+
+#define LIMITE 10
+`definir_tipo` `sin_signo` `entero` natural;
+
+`estatico` natural suma(`entero` n) {
+    natural total = 0;
+    `para` (`entero` i = 1; i <= n; i++) {
+        `si` (i % 2 == 0) `continuar`;     // se omiten los pares
+        total += i;
+    }
+    `retornar` total;
+}
+
+`entero` main(`vacio`) {
+    `constante` `caracter` *texto = "while y if dentro de un texto";
+    `caracter` letra = 'i';
+    `entero` valor = 0x1f, interior = 3, entero_largo = 1;   // estos nombres no se tocan
+    `segun` (valor) {
+        `caso` 31: puts("treinta y uno"); `romper`;
+        `predeterminado`: puts("otro");
+    }
+    `hacer` { valor--; } `mientras` (valor > interior);
+    printf("%s %c %u %d\n", texto, letra, suma(LIMITE), entero_largo);
+    `retornar` 0;
+}

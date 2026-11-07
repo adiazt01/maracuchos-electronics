@@ -1,0 +1,21 @@
+Ejercicio 1 - Verificador de movimientos de caballo
+Lenguaje: C
+Casilla inicial: a2
+Numero de movimientos n: 500
+Resultado de la verificacion: movimiento CORRECTO.
+Repeticiones: 10
+Reloj: QueryPerformanceCounter
+
+Repeticion  1: 0.034900 ms
+Repeticion  2: 0.033900 ms
+Repeticion  3: 0.034000 ms
+Repeticion  4: 0.033700 ms
+Repeticion  5: 0.033300 ms
+Repeticion  6: 0.033300 ms
+Repeticion  7: 0.033600 ms
+Repeticion  8: 0.033100 ms
+Repeticion  9: 0.033400 ms
+Repeticion 10: 0.033400 ms
+
+Tiempo total (10 repeticiones): 0.336600 ms
+Tiempo promedio por repeticion: 0.033660 ms
