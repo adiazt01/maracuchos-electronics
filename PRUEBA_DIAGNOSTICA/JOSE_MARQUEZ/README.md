@@ -1,8 +1,6 @@
 # Prueba diagnóstica — Lenguajes y Compiladores (2026-II)
 
 - **Estudiante:** José Marquez
-- **Grupo:** [NOMBRE DEL GRUPO] — *[ESLOGAN]*
-- **Sección:** [SECCIÓN]
 - **Video de defensa:** https://drive.google.com/file/d/1ayR_kkLbzH9SYUak1pItaFW32Z6jdNxh/view?usp=drive_link
 
 ## Contenido de esta carpeta
