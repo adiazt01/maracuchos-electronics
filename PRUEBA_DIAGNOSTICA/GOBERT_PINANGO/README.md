@@ -1,7 +1,7 @@
 # Prueba diagnóstica — Lenguajes y Compiladores (2026-II)
 
-- **Estudiante:** Gobert Pinango
-- **Sección:** 2
+- **Estudiante:** Gobert Piñango
+- **Sección:** 1
 - **Video de defensa:** ver [`ENLACE_VIDEO.md`](ENLACE_VIDEO.md) (completar el enlace de Drive).
 
 ## Contenido de esta carpeta
