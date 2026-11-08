@@ -1,0 +1,42 @@
+Ejercicio 3 - Palabras reservadas de C traducidas al espanol
+Lenguaje: C
+Archivo analizado: ejemplo.c
+Palabras reservadas: C89, C99 y C11
+
+Palabras reservadas encontradas en "ejemplo.c":
+  break          -> romper             (2 ocurrencias)
+  case           -> caso               (1 ocurrencia)
+  char           -> caracter           (1 ocurrencia)
+  const          -> constante          (3 ocurrencias)
+  continue       -> continuar          (1 ocurrencia)
+  default        -> predeterminado     (1 ocurrencia)
+  do             -> hacer              (1 ocurrencia)
+  double         -> doble              (3 ocurrencias)
+  else           -> sino               (1 ocurrencia)
+  enum           -> enumeracion        (1 ocurrencia)
+  extern         -> externo            (1 ocurrencia)
+  float          -> flotante           (1 ocurrencia)
+  for            -> para               (2 ocurrencias)
+  goto           -> ir_a               (1 ocurrencia)
+  if             -> si                 (3 ocurrencias)
+  int            -> entero             (21 ocurrencias)
+  long           -> largo              (4 ocurrencias)
+  register       -> registro           (1 ocurrencia)
+  return         -> retornar           (11 ocurrencias)
+  short          -> corto              (2 ocurrencias)
+  signed         -> con_signo          (1 ocurrencia)
+  sizeof         -> tamano_de          (2 ocurrencias)
+  static         -> estatico           (10 ocurrencias)
+  struct         -> estructura         (2 ocurrencias)
+  switch         -> segun              (1 ocurrencia)
+  typedef        -> definir_tipo       (1 ocurrencia)
+  union          -> union              (2 ocurrencias)
+  unsigned       -> sin_signo          (4 ocurrencias)
+  void           -> vacio              (7 ocurrencias)
+  volatile       -> volatil            (1 ocurrencia)
+  while          -> mientras           (3 ocurrencias)
+  inline         -> en_linea           (1 ocurrencia)
+  restrict       -> restringido        (1 ocurrencia)
+  _Bool          -> _Booleano          (1 ocurrencia)
+
+Total: 99 ocurrencia(s) de 34 palabra(s) reservada(s) distinta(s).

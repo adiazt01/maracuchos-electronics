@@ -1,0 +1,126 @@
+/*
+ * Comentario de prueba: int while return for struct enum no deben contarse.
+ * Tampoco deben contarse las palabras que aparecen aqui: sizeof, signed.
+ */
+
+// Comentario de linea: const char unsigned long register volatile
+
+#include <stdio.h>
+#include <stdlib.h>
+
+definir_tipo estructura Nodo {
+    entero valor;
+    estructura Nodo *siguiente;
+} Nodo;
+
+enumeracion Color { ROJO, VERDE, AZUL };
+
+union Dato {
+    entero entero;
+    flotante flotante;
+};
+
+externo entero variable_externa;
+
+estatico constante caracter *LEYENDA =
+    "int while return for no cuentan dentro de una cadena";
+
+estatico sin_signo largo contar_nodos(constante Nodo *nodo) {
+    sin_signo largo total = 0;
+    mientras (nodo != NULL) {
+        total += (sin_signo largo)tamano_de(entero);
+        nodo = nodo->siguiente;
+    }
+    retornar total;
+}
+
+estatico doble promedio(constante corto *valores, entero cantidad) {
+    doble suma = 0.0;
+    para (entero i = 0; i < cantidad; i++) {
+        si (valores[i] < 0) {
+            continuar;
+        } sino {
+            suma += (doble)valores[i];
+        }
+    }
+    retornar suma;
+}
+
+estatico vacio demo_do(vacio) {
+    entero i = 0;
+    hacer {
+        i++;
+    } mientras (i < 1);
+}
+
+estatico entero demo_goto(entero x) {
+    si (x < 0) {
+        ir_a error;
+    }
+    retornar x;
+error:
+    retornar 0;
+}
+
+estatico con_signo entero demo_signed(vacio) {
+    retornar -1;
+}
+
+estatico entero demo_register_volatile(vacio) {
+    registro entero i = 1;
+    volatil entero v = 2;
+    retornar i + v;
+}
+
+estatico en_linea entero demo_inline(vacio) {
+    retornar 0;
+}
+
+estatico entero demo_restrict(entero *restringido puntero) {
+    retornar *puntero;
+}
+
+estatico _Booleano demo_bool(vacio) {
+    retornar 1;
+}
+
+entero main(vacio) {
+    Nodo *cabeza = NULL;
+    para (entero i = 0; i < 3; i++) {
+        Nodo *nuevo = (Nodo *)malloc(tamano_de(Nodo));
+        si (nuevo == NULL) {
+            retornar 1;
+        }
+        nuevo->valor = i;
+        nuevo->siguiente = cabeza;
+        cabeza = nuevo;
+    }
+
+    corto valores[] = {1, -2, 3};
+    union Dato dato;
+    dato.entero = 7;
+
+    entero numero = 5;
+    entero extra = demo_goto(-1) + demo_signed() + demo_register_volatile() +
+                demo_inline() + demo_restrict(&numero) + (entero)demo_bool();
+    demo_do();
+
+    sin_signo largo total = contar_nodos(cabeza);
+    segun (total) {
+        caso 0:
+            printf("vacio\n");
+            romper;
+        predeterminado:
+            printf("%s: %lu %.2f %d %d\n", LEYENDA, total,
+                   promedio(valores, 3), dato.entero, extra);
+            romper;
+    }
+
+    mientras (cabeza != NULL) {
+        Nodo *siguiente = cabeza->siguiente;
+        free(cabeza);
+        cabeza = siguiente;
+    }
+
+    retornar 0;
+}
