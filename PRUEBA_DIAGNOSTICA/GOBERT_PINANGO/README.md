@@ -97,10 +97,3 @@ Desde esta carpeta:
 ```
 
 `instalar.sh` verifica/instala Rust, Python, GCC, Make y GMP. `generar_resultados.sh` vuelve a ejecutar los benchmarks y regenera los archivos `resultados_*.txt`.
-
-## Observaciones
-
-- El Ejercicio 1 se implementó en Rust según lo solicitado.
-- El Ejercicio 2 en C usa GMP (`libgmp-dev`) para coeficientes y evaluaciones de precisión arbitraria; Python usa enteros nativos.
-- El Ejercicio 3 usa solo la biblioteca estándar de C.
-- Los tiempos dependen del hardware y de la carga del sistema; se reportan valores de referencia.
