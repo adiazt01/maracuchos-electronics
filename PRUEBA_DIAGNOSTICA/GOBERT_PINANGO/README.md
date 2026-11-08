@@ -2,7 +2,7 @@
 
 - **Estudiante:** Gobert Piñango
 - **Sección:** 1
-- **Video de defensa:** ver [`ENLACE_VIDEO.md`](ENLACE_VIDEO.md) (completar el enlace de Drive).
+- **Video de defensa:** ver [`ENLACE_VIDEO.md`](ENLACE_VIDEO.md) 
 
 ## Contenido de esta carpeta
 
