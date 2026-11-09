@@ -1,0 +1,2 @@
+--- RESULTADOS EJERCICIO 2 (Python) ---
+Tiempo de ejecucion para n=100 (100 iteraciones): 0.069877 segundos
