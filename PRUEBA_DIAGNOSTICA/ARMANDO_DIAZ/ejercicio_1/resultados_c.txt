@@ -1,0 +1,19 @@
+Lenguaje: C
+Casilla inicial: a2
+Movimientos verificados por corrida: 500
+Resultado: movimiento CORRECTO.
+
+Corrida  1: 0.000010654 s
+Corrida  2: 0.000009869 s
+Corrida  3: 0.000009841 s
+Corrida  4: 0.000009823 s
+Corrida  5: 0.000009757 s
+Corrida  6: 0.000009869 s
+Corrida  7: 0.000009754 s
+Corrida  8: 0.000009767 s
+Corrida  9: 0.000009778 s
+Corrida 10: 0.000009816 s
+
+Promedio: 0.000009893 s
+Mínimo:   0.000009754 s
+Máximo:   0.000010654 s

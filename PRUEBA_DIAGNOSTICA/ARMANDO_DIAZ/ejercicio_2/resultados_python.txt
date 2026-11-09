@@ -1,0 +1,17 @@
+Lenguaje: Python
+n = 100 (generar coeficientes y convertirlos a texto)
+
+Corrida  1: 0.000549449 s
+Corrida  2: 0.000519596 s
+Corrida  3: 0.000503920 s
+Corrida  4: 0.000511912 s
+Corrida  5: 0.000497774 s
+Corrida  6: 0.000520387 s
+Corrida  7: 0.000480479 s
+Corrida  8: 0.000480719 s
+Corrida  9: 0.000467538 s
+Corrida 10: 0.000476479 s
+
+Promedio: 0.000500825 s
+Mínimo:   0.000467538 s
+Máximo:   0.000549449 s

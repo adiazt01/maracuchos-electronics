@@ -1,0 +1,19 @@
+Lenguaje: Python
+Casilla inicial: a2
+Movimientos verificados por corrida: 500
+Resultado: movimiento CORRECTO.
+
+Corrida  1: 0.000578709 s
+Corrida  2: 0.000538367 s
+Corrida  3: 0.000539526 s
+Corrida  4: 0.000515640 s
+Corrida  5: 0.000526084 s
+Corrida  6: 0.000512934 s
+Corrida  7: 0.000634171 s
+Corrida  8: 0.000614061 s
+Corrida  9: 0.000488848 s
+Corrida 10: 0.000505911 s
+
+Promedio: 0.000545425 s
+Mínimo:   0.000488848 s
+Máximo:   0.000634171 s

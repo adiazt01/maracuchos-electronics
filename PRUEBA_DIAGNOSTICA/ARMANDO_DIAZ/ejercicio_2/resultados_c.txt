@@ -1,0 +1,17 @@
+Lenguaje: C
+n = 100 (generar coeficientes y convertirlos a texto)
+
+Corrida  1: 0.000036619 s
+Corrida  2: 0.000026136 s
+Corrida  3: 0.000025427 s
+Corrida  4: 0.000025036 s
+Corrida  5: 0.000024904 s
+Corrida  6: 0.000024857 s
+Corrida  7: 0.000024769 s
+Corrida  8: 0.000024865 s
+Corrida  9: 0.000024799 s
+Corrida 10: 0.000024788 s
+
+Promedio: 0.000026220 s
+Mínimo:   0.000024769 s
+Máximo:   0.000036619 s

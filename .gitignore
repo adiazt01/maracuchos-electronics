@@ -1,1 +1,5 @@
 CORREO_PROFESOR.txt
+__pycache__/
+PRUEBA_DIAGNOSTICA/*/ejercicio_*/main
+PRUEBA_DIAGNOSTICA/*/ejercicio_*/programa_traducido.c
+PRUEBA_DIAGNOSTICA/*/guion_defensa.pdf
