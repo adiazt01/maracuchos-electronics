@@ -1,0 +1,33 @@
+--- RESULTADOS EJERCICIO 3 (Resumen de Palabras Reservadas) ---
+'auto' (automático): 1 veces
+'break' (interrumpir): 2 veces
+'case' (caso): 1 veces
+'char' (carácter): 11 veces
+'const' (constante): 4 veces
+'continue' (continuar): 1 veces
+'default' (por defecto): 1 veces
+'do' (hacer): 1 veces
+'double' (doble): 1 veces
+'else' (si no): 2 veces
+'enum' (enumeración): 1 veces
+'extern' (externo): 1 veces
+'float' (flotante): 1 veces
+'for' (para): 4 veces
+'goto' (ir a): 1 veces
+'if' (si): 11 veces
+'int' (entero): 8 veces
+'long' (largo): 3 veces
+'register' (registro): 1 veces
+'return' (retornar): 4 veces
+'short' (corto): 1 veces
+'signed' (con signo): 1 veces
+'sizeof' (tamaño de): 5 veces
+'static' (estático): 1 veces
+'struct' (estructura): 2 veces
+'switch' (seleccionar): 1 veces
+'typedef' (definición de tipo): 2 veces
+'union' (unión): 1 veces
+'unsigned' (sin signo): 1 veces
+'void' (vacío): 2 veces
+'volatile' (volátil): 1 veces
+'while' (mientras): 1 veces
