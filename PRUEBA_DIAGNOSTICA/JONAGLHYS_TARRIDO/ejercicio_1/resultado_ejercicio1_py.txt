@@ -1,0 +1,4 @@
+--- RESULTADOS EJERCICIO 1 (Python) ---
+Iteraciones: 100
+Salida: movimiento CORRECTO
+Tiempo de ejecucion: 0.008823 segundos

@@ -1,0 +1,12 @@
+[package]
+name = "caballo"
+version = "0.1.0"
+edition = "2021"
+description = "Verificador de movimientos de caballo sobre un tablero de ajedrez"
+
+[[bin]]
+name = "caballo"
+path = "src/main.rs"
+
+[profile.release]
+opt-level = 3

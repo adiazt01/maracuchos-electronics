@@ -1,0 +1,6 @@
+ejercicio_1/target/
+ejercicio_2/c/polinomio
+ejercicio_3/traductor
+__pycache__/
+*.pyc
+*.exe

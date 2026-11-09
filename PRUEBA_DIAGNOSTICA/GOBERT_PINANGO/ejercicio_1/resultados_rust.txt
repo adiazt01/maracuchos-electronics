@@ -1,0 +1,23 @@
+Ejercicio 1 - Verificador de movimientos de caballo
+Lenguaje: Rust 1.99.1
+Casilla inicial: a2
+Numero de movimientos n: 500
+Repeticiones: 10
+Reloj: std::time::Instant
+
+=== Verificacion de 500 movimientos desde a2 (10 repeticiones) ===
+corrida  1:     3.985 us -> movimiento CORRECTO.
+corrida  2:     3.377 us -> movimiento CORRECTO.
+corrida  3:     3.282 us -> movimiento CORRECTO.
+corrida  4:     3.291 us -> movimiento CORRECTO.
+corrida  5:     3.284 us -> movimiento CORRECTO.
+corrida  6:     3.289 us -> movimiento CORRECTO.
+corrida  7:     3.280 us -> movimiento CORRECTO.
+corrida  8:     3.302 us -> movimiento CORRECTO.
+corrida  9:     3.288 us -> movimiento CORRECTO.
+corrida 10:     3.294 us -> movimiento CORRECTO.
+
+Tiempo total: 33.672 us
+Tiempo promedio por verificacion: 3.367 us
+Tiempo minimo: 3.280 us
+Mediana: 3.291 us

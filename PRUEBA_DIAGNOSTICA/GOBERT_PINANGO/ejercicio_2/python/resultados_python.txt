@@ -1,0 +1,18 @@
+Ejercicio 2 - Triangulo de Pascal y polinomio (x+1)^n (n=100)
+Lenguaje: Python 3.14.4
+Repeticiones: 1000
+Reloj: time.perf_counter()
+
+Python - generacion de la fila n=100
+  Iteraciones: 1000
+  Tiempo total: 0.731846 s
+  Promedio por generacion: 731.846 us
+  Una sola generacion: 405.114 us
+  Coeficiente central: 100891344545564193334812497256
+
+Python - generacion de las filas 0..100 (triangulo completo)
+  Iteraciones: 1000
+  Tiempo total: 0.673799 s
+  Promedio por generacion: 673.799 us
+  Una sola generacion: 594.100 us
+  Suma de control: 5416779509613284387

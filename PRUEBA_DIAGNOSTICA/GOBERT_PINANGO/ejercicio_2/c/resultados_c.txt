@@ -1,0 +1,19 @@
+Ejercicio 2 - Triangulo de Pascal y polinomio (x+1)^n (n=100)
+Lenguaje: C con GMP
+Repeticiones: 1000
+Reloj: clock_gettime(CLOCK_MONOTONIC)
+
+C (GMP) - generacion de la fila n=100
+  Iteraciones: 1000
+  Tiempo total: 0.086346 s
+  Promedio por generacion: 86.346 us
+  Una sola generacion: 70.268 us
+  Coeficiente central: 100891344545564193334812497256
+  Checksum: 3916713122748800576
+
+C (GMP) - generacion de las filas 0..100 (triangulo completo)
+  Iteraciones: 1000
+  Tiempo total: 0.084159 s
+  Promedio por generacion: 84.159 us
+  Una sola generacion: 86.108 us
+  Suma de control: 5416779509613284387

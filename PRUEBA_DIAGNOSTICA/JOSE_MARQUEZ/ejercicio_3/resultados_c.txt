@@ -1,0 +1,11 @@
+Ejercicio 3 - Palabras reservadas de C
+Lenguaje: C
+Archivo analizado: ejemplo.c
+Tamano: 807 bytes, 30 lineas
+Palabras reservadas encontradas: 23 (17 distintas)
+Repeticiones: 100
+Reloj: QueryPerformanceCounter
+Se mide solo la traduccion del codigo ya cargado en memoria.
+
+Tiempo total (100 repeticiones): 4.485500 ms
+Tiempo promedio por repeticion: 0.044855 ms
